@@ -8,6 +8,7 @@ you learn angular and associated web technologies we use.  I will try to help yo
 in need.  So all'n'all, I hope this will be an good learning experience.
 
 TL;DR The purpose of this project is to:
+
 1. Help us familiarize eachothers workflow.
 2. Provide a primer on Angular and CYR's API backend.
 3. Act as a way to determine how to split future work.
